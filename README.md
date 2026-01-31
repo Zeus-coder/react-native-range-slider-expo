@@ -65,6 +65,7 @@ import RangeSlider, { Slider } from 'react-native-range-slider-expo';
 | toValueOnChange | callback | yes | - |
 | step | number | no | 1 |
 | styleSize | string ( 'small' \| 'medium' \| 'large' \| number )  | no | 'medium' |
+| knobStyle | 
 | fromKnobColor | string (color) | no | '#00a2ff' |
 | toKnobColor | string (color) | no | '#00a2ff' |
 | inRangeBarColor | string (color) | no | 'rgb(100,100,100)' |

@@ -7,6 +7,7 @@ interface SliderProps {
     toValueOnChange: (value: number) => void;
     step?: number;
     styleSize?: 'small' | 'medium' | 'large' | number;
+    knobStyle?: ViewStyle;
     fromKnobColor?: string;
     toKnobColor?: string;
     inRangeBarColor?: string;
