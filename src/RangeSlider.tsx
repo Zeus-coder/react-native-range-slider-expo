@@ -458,6 +458,7 @@ const RangeSlider = memo(
               <Animated.View
                 style={[
                   styles.knob,
+                  knobStyle,
                   {
                     height: knobSize,
                     width: knobSize,
