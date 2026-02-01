@@ -1,6 +1,6 @@
 {
     "main": "./src/index",
-    "name": "react-native-range-slider-expo",
+    "name": "@pelumi_coder/react-native-range-slider-expo",
     "description": "Customizable range slider for react native apps and compatible with Expo projects",
     "license": "MIT",
     "homepage": "https://github.com/D10S60948/react-native-range-slider-expo#readme",
